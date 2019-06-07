@@ -1,8 +1,4 @@
-CREATE DATABASE library;
-
-use library;
-
-
+CREATE DATABASE library; use library; 
 drop table if exists Book; 
 create table Book
 (
